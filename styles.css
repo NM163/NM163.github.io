@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  color: darkslategrey;
+  text-align: center;
+}
+
+table {
+  border: 2px solid darkolivegreen;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: burlywood;
+  text-align: left;
+}
+
+td {
+  border-top: 1px solid darkolivegreen;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+  font-size: 17;
+}
